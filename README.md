@@ -6,7 +6,7 @@
 - #### 📫 How to reach me: 
 <p>
      <p> </p> 
-<a href="www.linkedin.com/in/pooja-todkar-a3629213a">
+<a href="https://www.linkedin.com/in/pooja-todkar-a3629213a">
     <img src="https://img.shields.io/badge/pooja-todkar-a3629213a?style=flat&logo=linkedin">
   </a> 
 </p> 
